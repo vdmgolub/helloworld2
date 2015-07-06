@@ -4,7 +4,7 @@ class Greeter
   end
 
   def bye(name)
-    puts "Bye-bye"
+    say "Bye-bye"
   end
 
   def say(message)
